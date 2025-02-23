@@ -88,6 +88,9 @@ Executing transaction: done
 ! should see somthing like this
 > (Terracode_SIG_workshop) nileshkr@Admins-MacBook-Pro Workshop_SIG_25_001
 
+## Install Kernal
+python -m ipykernel install --user --name myenv --display-name "Terracode_SIG_workshop"
+
 
 ## Install Jupyter Notebook:
 
