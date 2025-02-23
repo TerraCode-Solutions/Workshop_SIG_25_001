@@ -3,6 +3,7 @@ Workshop SIG 2025 001
 
 Date: - Feb 22 2025
 
+# SETUP
 
 ## Creating an environment with commands
 
@@ -84,7 +85,14 @@ Executing transaction: done
 
 `conda activate Terracode_SIG_workshop`
 
-### To deactivate an active environment, use
+! should see somthing like this
+> (Terracode_SIG_workshop) nileshkr@Admins-MacBook-Pro Workshop_SIG_25_001
 
-`conda deactivate`
 
+## Install Jupyter Notebook:
+
+`pip install notebook`
+
+### To run the notebook:
+
+`jupyter notebook`
