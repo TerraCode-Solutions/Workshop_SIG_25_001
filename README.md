@@ -99,3 +99,10 @@ python -m ipykernel install --user --name myenv --display-name "Terracode_SIG_wo
 ### To run the notebook:
 
 `jupyter notebook`
+
+## Install Required libraray 
+pip install matplotlib
+pip install pandas
+pip install geopandas
+pip install folium
+pip install rasterio
